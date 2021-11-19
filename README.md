@@ -7,16 +7,16 @@
 👯 I'm looking to collaborate on [@CraftingForChrist](https://github.com/craftingforchrist)  
 📫 How to reach me:
 
-- ![Discord][DiscordIcon]
+- [![Discord][DiscordIcon]](https://discordapp.com/users/194755878505807873/)
 - [![Email][EmailIcon]](mailto:jae.cal@hotmail.com)
 - [![Jaedan Calder][LinkedInIcon]](https://www.linkedin.com/in/Jaedan-Calder/)
 
 🎇 Experience
 
-- ![Python][PythonIcon] ![Java][JavaIcon] ![C][CIcon] ![C#][C#Icon] ![C++][C++Icon] ![R][RIcon]
-- ![Docker][DockerIcon] ![SQLite][SQLiteIcon]
-- ![Godot][GodotIcon] ![Processing][ProcessingIcon]
-- ![GitHub][GithubIcon] ![Git][GitIcon]
+- [![Python][PythonIcon]][Home] [![Java][JavaIcon]][Home] [![C][CIcon]][Home] [![C#][C#Icon]][Home] [![C++][C++Icon]][Home] [![R][RIcon]][Home]
+- [![Docker][DockerIcon]][Home] [![SQLite][SQLiteIcon]][Home]
+- [![Godot][GodotIcon]][Home]   [![Processing][ProcessingIcon]][Home]
+- [![GitHub][GithubIcon]][Home] [![Git][GitIcon]][Home]
 
 ⚡ Fun fact: I used to play Rainbow Six: Siege professionally for the Pittsburgh Knights:
 
@@ -32,6 +32,7 @@
 [![NonogramSolver Card][NonogramSolver]](https://github.com/JaedanC/NonogramSolver)
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk https://simpleicons.org/ -->
+[Home]:           https://github.com/JaedanC
 [GitHubStats]:    https://github-readme-stats.vercel.app/api?username=JaedanC&theme=tokyonight
 [GoTeria]:        https://github-readme-stats.vercel.app/api/pin/?username=JaedanC&repo=GoTeria&theme=tokyonight
 [NonogramSolver]: https://github-readme-stats.vercel.app/api/pin/?username=JaedanC&repo=NonogramSolver&theme=tokyonight
