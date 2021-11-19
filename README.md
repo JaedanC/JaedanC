@@ -11,7 +11,7 @@
 - [![Email][EmailIcon]](mailto:jae.cal@hotmail.com)
 - [![Jaedan Calder][LinkedInIcon]](https://www.linkedin.com/in/Jaedan-Calder/)
 
-Experience
+🎇 Experience
 
 - ![Python][PythonIcon] ![Java][JavaIcon] ![C][CIcon] ![C#][C#Icon] ![C++][C++Icon] ![R][RIcon]
 - ![Docker][DockerIcon] ![SQLite][SQLiteIcon]
