@@ -18,7 +18,7 @@ Experience
 - ![Godot][GodotIcon] ![Processing][ProcessingIcon]
 - ![GitHub][GithubIcon] ![Git][GitIcon]
 
-⚡ Fun fact: I used to play ![Rainbow6][Rainbow6Icon] professionally for the Pittsburgh Knights:
+⚡ Fun fact: I used to play Rainbow Six: Siege professionally for the Pittsburgh Knights:
 
 - [![Twitter][TwitterIcon]](https://twitter.com/Stryder_R6)
 - [![ESLGaming][ESLGamingIcon]](https://liquipedia.net/rainbowsix/StryderEpic)
