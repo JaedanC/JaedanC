@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- ![Random Mountain](https://source.unsplash.com/random/800x400?mountain) -->
 ![Random Aurora](https://source.unsplash.com/random/800x300?aurora)
 
