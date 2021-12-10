@@ -26,8 +26,8 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=JaedanC&theme=tokyonight">
 </p>
 
-[![GoTeria Card][GoTeria]](https://github.com/JaedanC/GoTeria)
-[![NonogramSolver Card][NonogramSolver]](https://github.com/JaedanC/NonogramSolver)
+<!-- [![GoTeria Card][GoTeria]](https://github.com/JaedanC/GoTeria) -->
+<!-- [![NonogramSolver Card][NonogramSolver]](https://github.com/JaedanC/NonogramSolver) -->
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk https://simpleicons.org/ -->
 [Home]:           https://github.com/JaedanC
@@ -36,7 +36,7 @@
 [NonogramSolver]: https://github-readme-stats.vercel.app/api/pin/?username=JaedanC&repo=NonogramSolver&theme=tokyonight
 
 [DiscordIcon]:    https://img.shields.io/badge/StryderEpic%233297-black?style=flat&logo=discord&logoColor=5865F2
-[EmailIcon]:      https://img.shields.io/badge/jae.cal@hotmail.com-black?style=flat&logo=gmail
+[EmailIcon]:      https://img.shields.io/badge/Email-black?style=flat&logo=gmail
 [LinkedInIcon]:   https://img.shields.io/badge/Jaedan_Calder-black?style=flat&logo=linkedin&logoColor=#0A66C2
 [PythonIcon]:     https://img.shields.io/badge/Python-black?style=flat&logo=python
 [JavaIcon]:       https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=ED8B00
