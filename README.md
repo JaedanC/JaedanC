@@ -2,7 +2,7 @@
 ![Random Aurora](https://source.unsplash.com/random/800x300?aurora)
 
 🏫 I'm a Bachelor of Computing graduate from the University of Sydney.  
-👯 I'm looking to collaborate on [@CraftingForChrist](https://github.com/craftingforchrist)  
+👯 I'm a collaborater for [@CraftingForChrist](https://github.com/craftingforchrist)  
 📫 How to reach me:
 
 - [![Discord][DiscordIcon]](https://discordapp.com/users/194755878505807873/)
