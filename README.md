@@ -1,5 +1,5 @@
-<!-- ![Random Mountain](https://source.unsplash.com/random/800x400?mountain) -->
-![Random Aurora](https://source.unsplash.com/random/800x300?aurora)
+![Random Mountain](https://source.unsplash.com/random/800x400?mountain)
+<!-- ![Random Aurora](https://source.unsplash.com/random/800x300?aurora) -->
 
 🏫 I'm a Bachelor of Computing graduate from the University of Sydney.  
 👯 I'm a collaborater for [@CraftingForChrist](https://github.com/craftingforchrist)  
