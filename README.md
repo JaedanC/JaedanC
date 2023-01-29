@@ -5,7 +5,6 @@
 👯 I'm a collaborater for [@CraftingForChrist](https://github.com/craftingforchrist)  
 📫 How to reach me:
 
-- [![Discord][DiscordIcon]](https://discordapp.com/users/194755878505807873/)
 - [![Email][EmailIcon]](mailto:jae.cal@hotmail.com)
 - [![Jaedan Calder][LinkedInIcon]](https://www.linkedin.com/in/Jaedan-Calder/)
 
