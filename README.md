@@ -1,6 +1,6 @@
 Day to day I'm a Network Engineer for HammondCare that comes from a programming background.
 
-🏫 I'm a Bachelor of Computing graduate from the University of Sydney.
+🏫 I'm a Bachelor of Computing graduate from the University of Sydney.  
 👯 I'm a collaborater for [@CraftingForChrist](https://github.com/craftingforchrist)  
 
 - [![Jaedan Calder][LinkedInIcon]](https://www.linkedin.com/in/Jaedan-Calder/)
