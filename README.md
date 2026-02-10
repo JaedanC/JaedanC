@@ -1,11 +1,8 @@
-![Random Mountain](https://source.unsplash.com/random/800x400?mountain)
-<!-- ![Random Aurora](https://source.unsplash.com/random/800x300?aurora) -->
+Day to day I'm a Network Engineer for HammondCare that comes from a programming background.
 
-🏫 I'm a Bachelor of Computing graduate from the University of Sydney.  
+🏫 I'm a Bachelor of Computing graduate from the University of Sydney.
 👯 I'm a collaborater for [@CraftingForChrist](https://github.com/craftingforchrist)  
-📫 How to reach me:
 
-- [![Email][EmailIcon]](mailto:jae.cal@hotmail.com)
 - [![Jaedan Calder][LinkedInIcon]](https://www.linkedin.com/in/Jaedan-Calder/)
 
 🎇 Experience
@@ -15,7 +12,7 @@
 - [![Godot][GodotIcon]][Home]   [![Processing][ProcessingIcon]][Home]
 - [![GitHub][GithubIcon]][Home] [![Git][GitIcon]][Home]
 
-⚡ Fun fact: I used to play Rainbow Six: Siege professionally for the Pittsburgh Knights:
+⚡ Fun fact: I'm a washed up Rainbow Six: Siege pro for the Pittsburgh Knights:
 
 - [![Twitter][TwitterIcon]](https://twitter.com/Stryder_R6)
 - [![ESLGaming][ESLGamingIcon]](https://liquipedia.net/rainbowsix/StryderEpic)
