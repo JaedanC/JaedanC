@@ -17,11 +17,6 @@ Day to day I'm a Network Engineer for HammondCare that comes from a programming 
 - [![Twitter][TwitterIcon]](https://twitter.com/Stryder_R6)
 - [![ESLGaming][ESLGamingIcon]](https://liquipedia.net/rainbowsix/StryderEpic)
 
-<!-- ![GitHub Stats][GitHubStats] -->
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=JaedanC&theme=tokyonight">
-</p>
-
 <!-- [![GoTeria Card][GoTeria]](https://github.com/JaedanC/GoTeria) -->
 <!-- [![NonogramSolver Card][NonogramSolver]](https://github.com/JaedanC/NonogramSolver) -->
 
