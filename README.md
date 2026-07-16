@@ -1,8 +1,7 @@
 Hi I'm Jaedan. I'm a Network Engineer with a programming background.
 
-🏫 I'm a Bachelor of Computing graduate from the University of Sydney.  
 🎮 I love making tools to solve problems.  
-🤓 CCNA certified
+🤓 Bachelor of Computing | CCNA certified
 
 Find me on LinkedIn [Jaedan Calder](https://www.linkedin.com/in/Jaedan-Calder/)
 
